@@ -1,2 +1,2 @@
-# EDA-and-Customer-Segmentation-utilizng-ML-Algorithms
-For detailed analysis, please, check .ipynb file.
+# EDA-and-Customer-Segmentation-utilizing-ML-Algorithms
+For detailed analysis, please take a look at the .ipynb file.
